@@ -28,6 +28,10 @@ The goal of this project is to analyze dairy product data to determine how vario
    In the end, I made a simple dashboard to display the outcomes. I presented significant data, such as total revenue per product, stock levels at various locations, and significant sales trends, using pivot 
    tables and charts. It's simple to observe which products are selling well, which places require extra stock, and where enhancements may be made thanks to the dashboard.
 
+   
+
+![Dairy product performance dashboard](https://github.com/user-attachments/assets/cf69627b-3ee5-4ee8-bbc9-6be3428434af)
+
 
 
 This project showcases my abilities to handle and clean data, using Excel to do insightful analysis, and design a simple, clear dashboard.Dairy Goods
