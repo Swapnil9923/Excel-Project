@@ -1,10 +1,12 @@
 # Excel-Project
 
 
-Dairy Products performance   Analysis
+**Dairy Products performance   Analysis**
 
 
 The goal of this project is to analyze dairy product data to determine how various items are doing in terms of revenue, stock, and sales. Location, total land area, cow count, farm size, product specifications (name, brand, price, quantity), storage conditions, production and expiration dates, sales numbers, and stock levels are all included in the collection. This project's objectives were to clean up the data, add missing numbers, extract insights using Excel functions, and then build a straightforward dashboard that compiled the results. It's a useful exercise that demonstrates my proficiency in Excel data analysis.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Data Cleaning
 I cleaned up the dataset as my initial task. A few entries were missing, some formatting problems existed, and some duplicates required to be handled. To make everything consistent, I standardized the names of the brands, items, and places. I also corrected any formatting issues with the dates. In order to ensure that the data was prepared for analysis.
@@ -17,5 +19,7 @@ I gathered important data using Excel's built-in functions, such as SUMIFS, AVER
 
 4. Building a Basic Dashboard
 In the end, I made a simple dashboard to display the outcomes. I presented significant data, such as total revenue per product, stock levels at various locations, and significant sales trends, using pivot tables and charts. It's simple to observe which products are selling well, which places require extra stock, and where enhancements may be made thanks to the dashboard.
+
+C:\Users\Hp\Downloads\Dairy product performance dashboard.png
 
 This project showcases my abilities to handle and clean data, using Excel to do insightful analysis, and design a simple, clear dashboard.Dairy Goods
